@@ -17,7 +17,7 @@ javascript:(function() {
 			this.ccVersion = 2.019,
 			this.version = "2.019.5",
 			this.clickBuffs = [
-        "Frenzy",
+        			"Frenzy",
 				"Elder frenzy",
 				"Click frenzy",
 				"Cursed finger",
