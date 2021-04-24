@@ -1,5 +1,5 @@
 var clickTimer = 1000/25;
-var checkTimer = 1000;
+var checkTimer = 100;
 var checkFunc = function() {
   if (Game.hasBuff("Click frenzy") ||
       Game.hasBuff("Cursed finger") ||
