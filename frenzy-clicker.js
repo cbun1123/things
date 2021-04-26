@@ -6,6 +6,7 @@ var checkFunc = function() {
       Game.hasBuff("Devastation") ||
       Game.hasBuff("Dragonflight") ||
       Game.hasBuff("Frenzy") ||
+      Game.hasBuff("Elder frenzy") ||
       Game.hasBuff("High-five") ||
       Game.hasBuff("Congregation") ||
       Game.hasBuff("Luxuriant harvest") ||
@@ -34,6 +35,7 @@ var clickFunc = function() {
       Game.hasBuff("Devastation") ||
       Game.hasBuff("Dragonflight") ||
       Game.hasBuff("Frenzy") ||
+      Game.hasBuff("Elder frenzy") ||
       Game.hasBuff("High-five") ||
       Game.hasBuff("Congregation") ||
       Game.hasBuff("Luxuriant harvest") ||
