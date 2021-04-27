@@ -1,10 +1,11 @@
-var clickTimer = 1000/25;
+var clickTimer = 1000/15;
 var checkTimer = 100;
 var checkFunc = function() {
   if (Game.hasBuff("Click frenzy") ||
       Game.hasBuff("Cursed finger") ||
       Game.hasBuff("Devastation") ||
       Game.hasBuff("Dragonflight") ||
+      Game.hasBuff("Dragon Harvest") ||
       Game.hasBuff("Frenzy") ||
       Game.hasBuff("Elder frenzy") ||
       Game.hasBuff("High-five") ||
@@ -34,6 +35,7 @@ var clickFunc = function() {
       Game.hasBuff("Cursed finger") ||
       Game.hasBuff("Devastation") ||
       Game.hasBuff("Dragonflight") ||
+      Game.hasBuff("Dragon Harvest") ||
       Game.hasBuff("Frenzy") ||
       Game.hasBuff("Elder frenzy") ||
       Game.hasBuff("High-five") ||
